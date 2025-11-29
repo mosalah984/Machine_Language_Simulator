@@ -98,5 +98,3 @@ It allows loading machine-code programs, executing them step-by-step, and observ
 
 ---
 
-## 📦 Repository Structure
-
